@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>pause.svg</file>
+        <file>prev.svg</file>
+        <file>next.svg</file>
+        <file>play.svg</file>
+        <file>stop.svg</file>
+        <file>defaultCoverArt50.png</file>
+        <file>defaultCoverArt150.png</file>
+    </qresource>
+</RCC>
